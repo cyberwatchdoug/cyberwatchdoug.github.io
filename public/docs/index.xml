@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on CyberWatchDoug Projects</title>
+    <link>//localhost:1313/docs/</link>
+    <description>Recent content in Projects on CyberWatchDoug Projects</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Mar 2025 10:34:46 -0800</lastBuildDate>
+    <atom:link href="//localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Example_page2</title>
+      <link>//localhost:1313/docs/example_page2/</link>
+      <pubDate>Wed, 05 Mar 2025 10:34:46 -0800</pubDate>
+      <guid>//localhost:1313/docs/example_page2/</guid>
+      <description>&lt;h2 id=&#34;example-page-2&#34;&gt;Example page 2 &lt;a href=&#34;#example-page-2&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;example page 2&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,46 @@
+# Landing page for site
+# All disabled for the time being
+
+bannerHero:
+  enable: true
+  weight: 10
+  template: hero
+
+  title: CyberWatchDoug
+  subtitle: "**Portfolio:** A place to learn about my projects and tinkering"
+  info: "**Open Source** MIT Licensed"
+
+  titleLogo:
+    path: "images/logos"
+    filename: "title_logo.png"
+    alt: "CyberWatchDoug Logo"
+    height: 80px
+
+  backgroundImage:
+    path: "images/templates/hero"
+    filename:
+      desktop: "gradient-desktop.webp"
+      mobile: "gradient-mobile.webp"
+
+featureProjectsGrid:
+  enable: true
+  weight: 100
+  template: feature grid
+
+  title: Welcome to the funhouse
+  subtitle: a place to learn about my projects and tinkering
+
+  items:
+    - title: "Project 1"
+      icon: Home # icons listed from Material Symbol https://fonts.google.com/icons?icon.style=Outlined
+      description: "first project number 1"
+      #ctaLink:
+      #  - text: "Learn more"
+      #    url: "/project1"
+    
+    - title: "Project 2"
+      icon: Home
+      description: "first project number 2"
+      #ctaLink:
+      #  - text: "Learn more"
+      #    url: "/project2"
